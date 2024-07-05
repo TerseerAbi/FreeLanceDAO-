@@ -1,3 +1,4 @@
+**FreeLanceDAO Manifesto**
 As the digital economy evolves, freelancers stand at the forefront of innovation, creativity, and growth. 
 
 Traditional freelance platforms often impose high fees, centralized control, and opaque practices, limiting the potential of freelancers worldwide. 
@@ -6,11 +7,11 @@ We, the members of FreeLanceDAO, envision a decentralized future built on the In
 
 Our mission is to create a fair, open, and democratic marketplace that empowers freelancers to thrive and clients to find the best talent globally.
 
-Our Vision
+**Our Vision**
 
 We envision a world where freelancers have full control over their careers, where trust and transparency are the norms, and where a decentralized community governs and sustains itself. FreeLanceDAO, built on ICP, is not just a platform; it is a movement towards a more equitable and efficient freelance economy.
 
-Core Principles
+**Core Principles**
 
 1. Decentralization and Autonomy
 We believe in the power of decentralization to dismantle the barriers imposed by centralized authorities. FreeLanceDAO operates on the principles of autonomy, where freelancers and clients engage directly without intermediaries.
@@ -30,9 +31,9 @@ We prioritize the security and privacy of our users. Utilizing ICP's advanced se
 6. Innovation and Growth
 We continuously seek to innovate and improve our platform. By fostering a culture of learning and adaptation, we aim to stay ahead in the ever-evolving digital landscape.
 
-Goals and Objectives
+**Goals and Objectives**
 
-Empower Freelancers
+1. Empower Freelancers
 Provide tools, resources, and a supportive community to help freelancers manage their careers, enhance their skills, and achieve financial independence.
 
 2. Enhance Client Experience
@@ -47,28 +48,28 @@ Break down geographical barriers and foster a global network of professionals co
 5. Drive Sustainable Growth
  Develop sustainable practices that ensure the long-term success and scalability of the platform.
 
-Core Features
+**Core Features**
 
-User Profiles and Job Postings: 
+1. User Profiles and Job Postings: 
 ~ Allow freelancers to create detailed profiles showcasing their skills, experience, and portfolio.
 
 ~ Enable clients to post job listings with specific requirements and budgets.
 
-Smart Contracts for Secure Payments
+2. Smart Contracts for Secure Payments
 Use smart contracts to manage job agreements, payments, and dispute resolutions securely and transparently.
 
-Review and Rating System
+3. Review and Rating System
 Implement a rating and review system for clients and freelancers to build trust and accountability.
 
-Project Management Tools
+4. Project Management Tools
 Provide tools for task tracking, milestone setting, and real-time communication to facilitate smooth collaboration.
 
-Decentralized Storage and Data Privacy
+5. Decentralized Storage and Data Privacy
 Utilize ICP’s decentralized storage solutions to ensure data privacy and security for all users.
 
 We invite freelancers, clients, and supporters of decentralization to join us in building a fairer, more transparent, and more empowering freelance marketplace. Together, we can redefine the future of work, making it more inclusive, equitable, and prosperous for everyone involved.
 
-Conclusion
+**Conclusion**
 
 FreeLanceDAO is more than just a platform—it is a vision for a better future. By adhering to our core principles and working towards our goals, we strive to create a decentralized ecosystem that truly benefits all participants. Join us in this journey and be a part of the revolution in freelance work.
 
