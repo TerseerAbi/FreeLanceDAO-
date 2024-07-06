@@ -1,4 +1,5 @@
 **FreeLanceDAO Manifesto**
+
 As the digital economy evolves, freelancers stand at the forefront of innovation, creativity, and growth. 
 
 Traditional freelance platforms often impose high fees, centralized control, and opaque practices, limiting the potential of freelancers worldwide. 
