@@ -36,29 +36,29 @@ Utilize ICP’s decentralized storage solutions to ensure data privacy and secur
 
 **Technical Stack:**
 
-Blockchain: ICP for its scalability, security, and smart contract functionality.
+1. Blockchain: ICP for its scalability, security, and smart contract functionality.
 
-Frontend: A user-friendly web application built with React or similar frameworks.
+2. Frontend: A user-friendly web application built with React or similar frameworks.
 
-Smart Contracts: Developed using Motoko, the smart contract language for ICP.
+3. Smart Contracts: Developed using Motoko, the smart contract language for ICP.
 
 
 **Additional Features:**
 
-Community Forum: Foster communication and collaboration between freelancers with a built-in forum.
+1. Community Forum: Foster communication and collaboration between freelancers with a built-in forum.
 
-Skill Verification: Integrate with existing skill verification platforms or develop an on-chain system for verifying skills.
+2. Skill Verification: Integrate with existing skill verification platforms or develop an on-chain system for verifying skills.
 
-Payment Options: Allow various payment options including ICP tokens and fiat integration for wider adoption.
+3. Payment Options: Allow various payment options including ICP tokens and fiat integration for wider adoption.
 
 **Benefits:**
 
-Transparency and Trust: Smart contracts and on-chain transactions ensure secure and transparent interactions.
+1. Transparency and Trust: Smart contracts and on-chain transactions ensure secure and transparent interactions.
 
-Reduced Fees: Eliminate the need for intermediaries, leading to lower fees for both freelancers and clients.
+2. Reduced Fees: Eliminate the need for intermediaries, leading to lower fees for both freelancers and clients.
 Community Governance: Freelancers and clients have a say in the platform's development and direction.
 
-Global Reach: The decentralized nature of ICP allows freelancers and clients worldwide to connect and collaborate.
+3. Global Reach: The decentralized nature of ICP allows freelancers and clients worldwide to connect and collaborate.
 
 **Goals and Objectives**
 
@@ -79,11 +79,11 @@ Break down geographical barriers and foster a global network of professionals co
 
 **Challenges:**
 
-User Adoption: Encouraging both freelancers and clients to adopt a new platform can be challenging.
+1. User Adoption: Encouraging both freelancers and clients to adopt a new platform can be challenging.
 
-Dispute Resolution: Developing a fair and efficient decentralized dispute resolution system.
+2. Dispute Resolution: Developing a fair and efficient decentralized dispute resolution system.
 
-Security: Ensuring the security of smart contracts and user funds is crucial.
+3. Security: Ensuring the security of smart contracts and user funds is crucial.
 
 **Breakdown of the development phases:**
 
@@ -93,9 +93,9 @@ Phase 2: Feature Development: Integrate additional features like dispute resolut
 
 Phase 3: Community Building: Market the platform and attract users through targeted campaigns and community building efforts.
 
-We invite freelancers, clients, and supporters of decentralization to join us in building a fairer, more transparent, and more empowering freelance marketplace. Together, we can redefine the future of work, making it more inclusive, equitable, and prosperous for everyone involved.
-
 **Conclusion**
+
+We invite freelancers, clients, and supporters of decentralization to join us in building a fairer, more transparent, and more empowering freelance marketplace. Together, we can redefine the future of work, making it more inclusive, equitable, and prosperous for everyone involved.
 
 FreeLanceDAO is more than just a platform—it is a vision for a better future. By adhering to our core principles and working towards our goals, we strive to create a decentralized ecosystem that truly benefits all participants. Join us in this journey and be a part of the revolution in freelance work.
 
