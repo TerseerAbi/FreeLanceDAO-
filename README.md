@@ -14,23 +14,51 @@ We envision a world where freelancers have full control over their careers, wher
 
 **Core Principles**
 
-1. Decentralization and Autonomy
-We believe in the power of decentralization to dismantle the barriers imposed by centralized authorities. FreeLanceDAO operates on the principles of autonomy, where freelancers and clients engage directly without intermediaries.
+1. Freelancer Profiles: Freelancers can create profiles showcasing their skills, experience, portfolio, and rates. These profiles can be verified through on-chain reputation systems and past project reviews.
 
-2. Transparency and Trust
-Transparency is the cornerstone of our platform. All transactions, agreements, and reviews are recorded on the blockchain, ensuring immutable and verifiable trust among users.
+2. Project Listings: Clients can post project details, required skills, budget, and deadlines.
 
-3. Fairness and Equality
-We are committed to providing equal opportunities for freelancers worldwide. Our platform charges minimal fees, ensuring that the earnings go directly to the freelancers who deserve it.
+3. Smart Contract Milestones: Projects can be broken down into milestones with escrowed payments facilitated by smart contracts. This ensures secure and transparent payment upon completion of each stage.
 
-4. Community Governance
-FreeLanceDAO is governed by its members. Decisions regarding platform policies, updates, and improvements are made through democratic voting, giving everyone a voice.
+4. Dispute Resolution: A decentralized arbitration system powered by ICP can be implemented for resolving disputes between freelancers and clients.
 
-5. Security and Privacy
-We prioritize the security and privacy of our users. Utilizing ICP's advanced security features, we ensure that data and transactions are protected from unauthorized access and breaches.
+5. FreelanceDAO Governance: Consider a governance token that allows freelancers and clients (who stake the token) to vote on platform upgrades, fees, and dispute resolution mechanisms.
 
-6. Innovation and Growth
-We continuously seek to innovate and improve our platform. By fostering a culture of learning and adaptation, we aim to stay ahead in the ever-evolving digital landscape.
+6. Review and Rating System
+Implement a rating and review system for clients and freelancers to build trust and accountability.
+
+7. Project Management Tools
+Provide tools for task tracking, milestone setting, and real-time communication to facilitate smooth collaboration.
+
+8. Decentralized Storage and Data Privacy
+Utilize ICP’s decentralized storage solutions to ensure data privacy and security for all users.
+
+
+**Technical Stack:**
+
+Blockchain: ICP for its scalability, security, and smart contract functionality.
+
+Frontend: A user-friendly web application built with React or similar frameworks.
+
+Smart Contracts: Developed using Motoko, the smart contract language for ICP.
+
+
+**Additional Features:**
+
+Community Forum: Foster communication and collaboration between freelancers with a built-in forum.
+
+Skill Verification: Integrate with existing skill verification platforms or develop an on-chain system for verifying skills.
+
+Payment Options: Allow various payment options including ICP tokens and fiat integration for wider adoption.
+
+**Benefits:**
+
+Transparency and Trust: Smart contracts and on-chain transactions ensure secure and transparent interactions.
+
+Reduced Fees: Eliminate the need for intermediaries, leading to lower fees for both freelancers and clients.
+Community Governance: Freelancers and clients have a say in the platform's development and direction.
+
+Global Reach: The decentralized nature of ICP allows freelancers and clients worldwide to connect and collaborate.
 
 **Goals and Objectives**
 
@@ -49,24 +77,21 @@ Break down geographical barriers and foster a global network of professionals co
 5. Drive Sustainable Growth
  Develop sustainable practices that ensure the long-term success and scalability of the platform.
 
-**Core Features**
+**Challenges:**
 
-1. User Profiles and Job Postings: 
-~ Allow freelancers to create detailed profiles showcasing their skills, experience, and portfolio.
+User Adoption: Encouraging both freelancers and clients to adopt a new platform can be challenging.
 
-~ Enable clients to post job listings with specific requirements and budgets.
+Dispute Resolution: Developing a fair and efficient decentralized dispute resolution system.
 
-2. Smart Contracts for Secure Payments
-Use smart contracts to manage job agreements, payments, and dispute resolutions securely and transparently.
+Security: Ensuring the security of smart contracts and user funds is crucial.
 
-3. Review and Rating System
-Implement a rating and review system for clients and freelancers to build trust and accountability.
+**Breakdown of the development phases:**
 
-4. Project Management Tools
-Provide tools for task tracking, milestone setting, and real-time communication to facilitate smooth collaboration.
+Phase 1: Proof of Concept: Develop a Minimum Viable Product (MVP) with core functionalities like profile creation, project listing, and basic escrow.
 
-5. Decentralized Storage and Data Privacy
-Utilize ICP’s decentralized storage solutions to ensure data privacy and security for all users.
+Phase 2: Feature Development: Integrate additional features like dispute resolution, governance mechanisms, and skill verification.
+
+Phase 3: Community Building: Market the platform and attract users through targeted campaigns and community building efforts.
 
 We invite freelancers, clients, and supporters of decentralization to join us in building a fairer, more transparent, and more empowering freelance marketplace. Together, we can redefine the future of work, making it more inclusive, equitable, and prosperous for everyone involved.
 
